@@ -1,7 +1,6 @@
-# Grade Calculator GUI
-An expansion of the simple grade calculator for students, written in Python.
-
-<img src="https://github.com/zhinch2/grade-calculator-gui/blob/main/example-image.png" alt="example-image" width="300">
+<p align="center">
+   <img src="https://github.com/zhinch2/grade-calculator-gui/blob/main/Banner.svg" alt="example-image" width="1000">
+</p>
 
 ## Prerequisites
 Before running the grade calculator GUI python script, you **must have Python 3.0 or later** installed.
